@@ -51,11 +51,9 @@ I'm passionate about Infrastructure as Code, containerization, and helping teams
 
 > Check out my repositories for infrastructure automation, deployment scripts, and cloud solutions
 
-https://github.com/Kun13kush/Detection-Tool
-
-
+**https://github.com/Kun13kush/Detection-Tool
 https://github.com/Kun13kush/gambit
----
+**---
 
 ## 🌐 Connect With Me
 
